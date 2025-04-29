@@ -3,7 +3,7 @@ nodes:
   llm:
     agent: openAIAgent
     params:
-      model: gpt-4o
+      model: gpt-4.1-nano
     inputs:
       prompt: Explain ML's transformer in 100 words.
   output:
